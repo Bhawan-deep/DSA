@@ -1,0 +1,16 @@
+boilerplate code for java
+import java.util.*;
+
+ public class vardtypes {
+    public static void main (String args[]){
+    Scanner sc= new Scanner(System.in);
+    String input = sc.nextLine();
+  
+ }
+    
+}
+nextInt
+nextFloat
+nextDouble
+nextByte
+next
